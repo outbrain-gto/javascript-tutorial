@@ -1,0 +1,6 @@
+[submodule "en.javascript.info"]
+	path = en.javascript.info
+	url = https://github.com/javascript-tutorial/en.javascript.info
+[submodule "server"]
+	path = server
+	url = https://github.com/javascript-tutorial/server
